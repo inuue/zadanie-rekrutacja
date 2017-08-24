@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="810px" height="348px" viewBox="0 0 810 348" enable-background="new 0 0 810 348" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- Copyright 1992, 1994, 1997, 2000, 2004 Adobe Systems Incorporated. All rights reserved. Myriad is either a registered trademark or a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
+<font-face font-family="MyriadPro-Regular" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="500" d="M0,0l500,0l0,700l-500,0M250,395l-170,255l340,0M280,350l170,255l0,-510M80,50l170,255l170,-255M50,605l170,-255l-170,-255z"/>
+<glyph unicode="E" horiz-adv-x="492" d="M425,388l-262,0l0,213l277,0l0,73l-364,0l0,-674l379,0l0,73l-292,0l0,243l262,0z"/>
+<glyph unicode="H" horiz-adv-x="652" d="M76,674l0,-674l87,0l0,316l326,0l0,-316l88,0l0,674l-88,0l0,-282l-326,0l0,282z"/>
+<glyph unicode="L" horiz-adv-x="472" d="M76,0l375,0l0,73l-288,0l0,601l-87,0z"/>
+<glyph unicode="O" horiz-adv-x="689" d="M349,685C169,685 36,545 36,331C36,127 161,-11 339,-11C511,-11 652,112 652,344C652,544 533,685 349,685M345,614C490,614 560,474 560,340C560,187 482,60 344,60C207,60 129,189 129,333C129,481 201,614 345,614z"/>
+<glyph unicode="T" horiz-adv-x="497" d="M204,0l88,0l0,600l206,0l0,74l-499,0l0,-74l205,0z"/>
+</font>
+
+	<g>
+	<g>
+		<polygon fill="#53120A" points="141,22.079 156.211,74.899 211.146,73.043 165.611,103.832 184.353,155.505 141,121.714 
+			97.647,155.505 116.389,103.832 70.854,73.043 125.789,74.899 		"/>
+		<polygon fill="#53120A" points="317,29.079 332.211,81.899 387.146,80.043 341.611,110.831 360.353,162.505 317,128.714 
+			273.647,162.505 292.389,110.831 246.854,80.043 301.789,81.899 		"/>
+		<polygon fill="#53120A" points="493,29.079 508.211,81.899 563.146,80.043 517.611,110.831 536.354,162.505 493,128.714 
+			449.648,162.505 468.389,110.831 422.854,80.043 477.789,81.899 		"/>
+		<polygon fill="#53120A" points="669,29.079 684.211,81.899 739.146,80.043 693.611,110.831 712.354,162.505 669,128.714 
+			625.648,162.505 644.389,110.831 598.854,80.043 653.789,81.899 		"/>
+	</g>
+	<rect x="53.995" y="214.927" fill="none" width="731.777" height="110.994"/>
+	
+		<text transform="matrix(1.35 0 0 1 53.9946 307.2256)" fill="#53120A" font-family="'MyriadPro-Regular'" font-size="130" letter-spacing="38.519">HOTEL</text>
+</g>
+</svg>
